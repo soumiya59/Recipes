@@ -21,47 +21,22 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+## Recipe App
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Discover the joy of cooking with our Recipe App! Built with Laravel, it's your go-to source for delicious recipes, easy meal planning, and culinary inspiration. Explore a world of flavors and simplify your cooking journey today.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## Screenshots
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+<img src="https://drive.google.com/uc?export=view&id=1lsOTcSssE8UvBDCQ-ZmKJ4Tv_pWRIwk5" width="300" >
+<img src="https://drive.google.com/uc?export=view&id=1Bbxlpa3n8bIBigKo_f0MX_ujYnkPXMBj" width="300" >
+<img src="https://drive.google.com/uc?export=view&id=1tx3heypNuqsKjc5-_C4tHL-omInUV0MI" width="300" >
+<img src="https://drive.google.com/uc?export=view&id=1AEPsCtYWN3wncFIpIkdBbzjC9B53C59K" width="300" >
+<img src="https://drive.google.com/uc?export=view&id=13FzgQsr-AfgmTaHn26eyoPQ42xo7nW-m" width="300" >
 
-## Laravel Sponsors
+## Contact
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# Recipe_App
+🚀 Sherwin Roxas 🌟<br>
+📧 Email: cosmicsher96@gmail.com / sherwinroxas602@gmail.com 📧<br>
+📱 Phone: +63950-909-8702 / +63994-215-2415 📱<br>
+💻 Laravel & Livewire Developer Extraordinaire 💻<br>
+🌐 Let's turn your ideas into reality! 🌐
