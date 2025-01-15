@@ -14,7 +14,8 @@ class BrowseRecipeController extends Controller
 
     public function index()
     {
-        return view('BrowseRecipe.BrowseRecipe');
+        return view('BrowseRecipe.BrowseRecipe')->with('recipe_data', recipe::all(), 'ingredient_data', ingredient::all(), 'procedure_data', procedure::all());
+        
     }
 
     public function search(Request $request)
